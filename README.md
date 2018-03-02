@@ -11,9 +11,11 @@ Open the cmd ,compile the Server.java and execute it.Then compile the Client.jav
 
 1.You can link to the server after you input the port when you are clients.
 This is initail view for clients.
+
 ![Image](https://github.com/wsp50317/winmine/blob/master/PictureForREADME/Client.png)
 
 And this is initail view for the server.
+
 ![Image](https://github.com/wsp50317/winmine/blob/master/PictureForREADME/Server.png)
 
 2.Clients can input the coordiante to clean the mine.
