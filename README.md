@@ -34,10 +34,6 @@ And the result will show on the views of clients and the server.
 
 ![Image](https://github.com/wsp50317/winmine/blob/master/PictureForREADME/BoomServer.png)
 
-### Prerequisites
-
-What things you need to install the software and how to install them
-
 ## Built With
 
 * [Java](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
